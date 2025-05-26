@@ -10292,7 +10292,8 @@ textarea {
   @media (max-width: 991.98px) {
     .section-2 {
       padding: 3rem 0 !important; 
-      margin-top: 80px!important;} }
+      margin-top: 80px!important;
+    margin-bottom: 40px!important;} }
 
 .image-stack {
   position: relative;
